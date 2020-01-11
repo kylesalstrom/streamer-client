@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "Sample Stream",
+      "description": "This is a great example of a stream!",
+      "id": 1
+    },
+    {
+      "title": "Another Stream",
+      "description": "Here's some other stream yeahhh!!",
+      "id": 2
+    },
+    {
+      "title": "Code Reuse Stream [edited version]",
+      "description": "Testing Generic Stream Form Editing. wow!",
+      "id": 4
+    }
+  ]
+}

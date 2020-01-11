@@ -1,0 +1,1 @@
+api/ and rtmpserver/ directories should be sibling directories alongside client/
